@@ -1,0 +1,5 @@
+.effet-hover:hover{
+    transform: scale(1);
+    background-color: blue;
+    color: aliceblue;
+}
